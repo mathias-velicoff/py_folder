@@ -1,28 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="68a7d225-6662-4893-85e4-bbcb6965603f" name="Changes" comment="" />
+    <list default="true" id="68a7d225-6662-4893-85e4-bbcb6965603f" name="Changes" comment="user upd">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdp_web_python_oop_task-master/lib/shopping_app/cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/cdp_web_python_oop_task-master/lib/shopping_app/cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdp_web_python_oop_task-master/lib/shopping_app/item.py" beforeDir="false" afterPath="$PROJECT_DIR$/cdp_web_python_oop_task-master/lib/shopping_app/item.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdp_web_python_oop_task-master/lib/shopping_app/item_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/cdp_web_python_oop_task-master/lib/shopping_app/item_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdp_web_python_oop_task-master/lib/shopping_app/shopping_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/cdp_web_python_oop_task-master/lib/shopping_app/shopping_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdp_web_python_oop_task-master/lib/shopping_app/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/cdp_web_python_oop_task-master/lib/shopping_app/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/refactorizacion.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cdp_web_python_oop_task-master" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2UVLZGCOeUS7HFIxajOQ2oCmjLL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,10 +54,40 @@
       <option name="presentableId" value="Default" />
       <updated>1693019854927</updated>
       <workItem from="1693019856500" duration="117000" />
+      <workItem from="1693331706311" duration="8849000" />
+      <workItem from="1693400115527" duration="1391000" />
+      <workItem from="1693404860271" duration="1614000" />
     </task>
+    <task id="LOCAL-00001" summary="user upd">
+      <option name="closed" value="true" />
+      <created>1693342159580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693342159580</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="user upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="user upd" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/wallet_py$shopping_app.coverage" NAME="shopping_app Coverage Results" MODIFIED="1693406365054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cdp_web_python_oop_task-master/lib/shopping_app" />
   </component>
 </project>
